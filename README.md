@@ -9,4 +9,4 @@ A desktop app for Windows.
 Download the installer (`.exe`), run it, and launch **Hawk**.
 
 - **Windows only.**
-- Hawk keeps itself up to date — new versions install automatically.
+- Hawk keeps itself up to date. New versions install automatically.
